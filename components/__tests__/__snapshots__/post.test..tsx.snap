@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post render post component 1`] = `
+<div
+  class="Post__Main-sc-7gr9bq-0 jvyXjv"
+  data-testid="post-1"
+>
+  <h1
+    class="Post__Title-sc-7gr9bq-1 gEUbMS"
+  >
+    title
+  </h1>
+  test
+</div>
+`;
